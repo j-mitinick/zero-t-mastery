@@ -1,0 +1,39 @@
+body{
+	background-color: lightyellow;
+}
+.container{
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.div-cadastro{
+
+	padding: 20px;
+	display: flex;
+	align-items: center;
+}
+.div-img-auth,
+.div-cadastro{
+	padding: 0;
+	background-color: #F5F5F5;
+
+}
+.div-form{
+	padding: 30px;
+}
+.form-control{
+
+	border-radius: 50px;
+}
+.div-logo{
+	
+	display: flex;
+	justify-content: center;
+}
+.div-logo img{
+	width: 40%;
+	border-radius: 30rem;
+	/*height: 20%;*/
+}
